@@ -2,8 +2,9 @@ package br.com.tech4me.lojanike.service;
 
 import java.util.List;
 
-import org.jvnet.hk2.annotations.Service;
+
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 import java.util.Optional;
 
